@@ -1,5 +1,5 @@
 #Write a program that takes an integer as input and returns an integer with 
-reversed digit ordering
+#reversed digit ordering
 def reverse_integer(n):
     
     if n < 0:
